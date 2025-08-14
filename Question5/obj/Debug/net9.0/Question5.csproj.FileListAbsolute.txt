@@ -1,0 +1,15 @@
+/Users/mba/Desktop/dcit318-assignment3-11352955/Question5/bin/Debug/net9.0/Question5
+/Users/mba/Desktop/dcit318-assignment3-11352955/Question5/bin/Debug/net9.0/Question5.deps.json
+/Users/mba/Desktop/dcit318-assignment3-11352955/Question5/bin/Debug/net9.0/Question5.runtimeconfig.json
+/Users/mba/Desktop/dcit318-assignment3-11352955/Question5/bin/Debug/net9.0/Question5.dll
+/Users/mba/Desktop/dcit318-assignment3-11352955/Question5/bin/Debug/net9.0/Question5.pdb
+/Users/mba/Desktop/dcit318-assignment3-11352955/Question5/obj/Debug/net9.0/Question5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mba/Desktop/dcit318-assignment3-11352955/Question5/obj/Debug/net9.0/Question5.AssemblyInfoInputs.cache
+/Users/mba/Desktop/dcit318-assignment3-11352955/Question5/obj/Debug/net9.0/Question5.AssemblyInfo.cs
+/Users/mba/Desktop/dcit318-assignment3-11352955/Question5/obj/Debug/net9.0/Question5.csproj.CoreCompileInputs.cache
+/Users/mba/Desktop/dcit318-assignment3-11352955/Question5/obj/Debug/net9.0/Question5.sourcelink.json
+/Users/mba/Desktop/dcit318-assignment3-11352955/Question5/obj/Debug/net9.0/Question5.dll
+/Users/mba/Desktop/dcit318-assignment3-11352955/Question5/obj/Debug/net9.0/refint/Question5.dll
+/Users/mba/Desktop/dcit318-assignment3-11352955/Question5/obj/Debug/net9.0/Question5.pdb
+/Users/mba/Desktop/dcit318-assignment3-11352955/Question5/obj/Debug/net9.0/Question5.genruntimeconfig.cache
+/Users/mba/Desktop/dcit318-assignment3-11352955/Question5/obj/Debug/net9.0/ref/Question5.dll
