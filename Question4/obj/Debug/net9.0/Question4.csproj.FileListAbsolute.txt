@@ -1,0 +1,15 @@
+/Users/mba/Desktop/dcit318-assignment3-11352955/Question4/bin/Debug/net9.0/Question4
+/Users/mba/Desktop/dcit318-assignment3-11352955/Question4/bin/Debug/net9.0/Question4.deps.json
+/Users/mba/Desktop/dcit318-assignment3-11352955/Question4/bin/Debug/net9.0/Question4.runtimeconfig.json
+/Users/mba/Desktop/dcit318-assignment3-11352955/Question4/bin/Debug/net9.0/Question4.dll
+/Users/mba/Desktop/dcit318-assignment3-11352955/Question4/bin/Debug/net9.0/Question4.pdb
+/Users/mba/Desktop/dcit318-assignment3-11352955/Question4/obj/Debug/net9.0/Question4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mba/Desktop/dcit318-assignment3-11352955/Question4/obj/Debug/net9.0/Question4.AssemblyInfoInputs.cache
+/Users/mba/Desktop/dcit318-assignment3-11352955/Question4/obj/Debug/net9.0/Question4.AssemblyInfo.cs
+/Users/mba/Desktop/dcit318-assignment3-11352955/Question4/obj/Debug/net9.0/Question4.csproj.CoreCompileInputs.cache
+/Users/mba/Desktop/dcit318-assignment3-11352955/Question4/obj/Debug/net9.0/Question4.sourcelink.json
+/Users/mba/Desktop/dcit318-assignment3-11352955/Question4/obj/Debug/net9.0/Question4.dll
+/Users/mba/Desktop/dcit318-assignment3-11352955/Question4/obj/Debug/net9.0/refint/Question4.dll
+/Users/mba/Desktop/dcit318-assignment3-11352955/Question4/obj/Debug/net9.0/Question4.pdb
+/Users/mba/Desktop/dcit318-assignment3-11352955/Question4/obj/Debug/net9.0/Question4.genruntimeconfig.cache
+/Users/mba/Desktop/dcit318-assignment3-11352955/Question4/obj/Debug/net9.0/ref/Question4.dll
